@@ -8,4 +8,4 @@ Abstract: This study investigates the social evaluation of linguistic variation 
 
 Keywords: sociolinguistic monitoring, (ING), (T)-deletion, England, Pennsylvania
 
-Funding: Austrian Research Council (FWF)
+Funding: Austrian Science Fund (FWF)
